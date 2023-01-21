@@ -1,10 +1,6 @@
 <?php
 
-/* 
-* Copyright © Rud Az 
-* Dilarang keras ganti Copyright pembuat
-* Hargai bila ingin dihargai
-*/
+
 
 echo "
 \n
